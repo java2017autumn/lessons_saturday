@@ -1,3 +1,5 @@
+package com.javaguru.lesson1;
+
 import java.util.Scanner;
 
 public class ConsoleInput {

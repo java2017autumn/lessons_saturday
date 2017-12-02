@@ -1,9 +1,9 @@
-package com.javaguru.lesson9;
+package com.javaguru.lesson9.students;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class PolymorphismMain {
+class PolymorphismMain {
 
     public static void main(String[] args) {
         List<Student> students = new ArrayList<>();

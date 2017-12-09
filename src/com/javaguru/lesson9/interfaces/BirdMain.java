@@ -1,8 +1,5 @@
 package com.javaguru.lesson9.interfaces;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class BirdMain {
 
     public static void main(String[] args) {

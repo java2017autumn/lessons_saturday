@@ -1,0 +1,1 @@
+User{login='userLogin', password='1234567890', repeatPassword='1234567890'}
